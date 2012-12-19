@@ -2,7 +2,7 @@ Frameboot is based on
 Framework 3.x for Drupal 7 created by André Griffin
 http://drupal.org/project/framework
 
-Frameboot, just like Framework is a blank canvas for theme developers expect that it takes advantage of
+Frameboot, just like Framework is a blank canvas for theme developers, it also takes advantage of
 Twitter's fantastic Bootstrap framework.
 
 Use Frameboot as a user friendly starting point to help facilitate your theme development. 
